@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "quantity": 1,
+        "name": "computer",
+        "price": 450,
+        "imgUrl": "https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    }
+]
