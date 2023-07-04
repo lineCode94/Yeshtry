@@ -3,10 +3,10 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 import { AiOutlineStar, AiFillStar } from "react-icons/ai";
 import logo from "../images/adidas-logo.svg";
 import Counter from "./Counter";
-// import { useShoppingCart } from "../context/ShoppingCartContext";
+import { useShoppingCart } from "../context/ShoppingCartContext";
 
 function ProductDescription() {
-  // const {} = useShoppingCart();
+  const { OpenCart } = useShoppingCart();
   // const [quantity, setQuantity] = useState(1);
   // const handleQuantityChange = (value) => {
   //   setQuantity(quantity + value);
@@ -102,7 +102,7 @@ function ProductDescription() {
         <Row>
           <Col xs={12} md={8}>
             <Button
-              // onClick={() => increaseCartQuantity()}
+              onClick={OpenCart}
               variant="primary"
               className="btn-add-to-cart"
             >
