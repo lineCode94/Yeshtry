@@ -10,7 +10,7 @@ const Navbar = () => {
           style={{ display: "flex", flexItem: "justify", marginLeft: "-100px" }}
           className="justify-content-center"
         >
-          <Nav.Link to="/men" as={NavLink}>
+          <Nav.Link to="/" as={NavLink}>
             Men
           </Nav.Link>
           <Nav.Link to="/women" as={NavLink}>

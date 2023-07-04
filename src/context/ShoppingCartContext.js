@@ -5,7 +5,7 @@ const ShoppingCartContext = createContext({});
 
 const ShoppingCartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   //toggle cart
   const toggleCart = () => {
     setIsOpen(!isOpen);

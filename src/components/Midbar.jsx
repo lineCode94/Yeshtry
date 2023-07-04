@@ -8,10 +8,12 @@ import {
   FormControl,
   // Button,
 } from "react-bootstrap";
+import { useShoppingCart } from "../context/ShoppingCartContext";
 // import { FaSearch, FaShoppingCart, FaHeart, FaUser } from "react-icons/fa";
 // import { FaSearch } from "@fortawesome/free-brands-svg-icons";
 import logo from "../images/adidas-logo.svg";
 const Midbar = () => {
+  const { OpenCart } = useShoppingCart();
   return (
     <Navbar
       style={{ background: "#fff" }}
@@ -43,18 +45,18 @@ const Midbar = () => {
           />
 
           <Nav className="nav-mid">
-            <Nav.Link href="#" className="mx-3">
+            <Nav.Link onClick={OpenCart} className="mx-3">
               <img
                 style={{ marginRight: "8px" }}
                 src={require("../images/cart1.svg").default}
                 alt="cart"
               />
               <Badge className="badge-cart" text="dark">
-                0
+                1
               </Badge>
               Cart
             </Nav.Link>
-            <Nav.Link href="#" className="mx-3">
+            <Nav.Link className="mx-3">
               <img
                 style={{ marginRight: "8px" }}
                 src={require("../images/heart.svg").default}
@@ -62,7 +64,7 @@ const Midbar = () => {
               />
               Wishlist
             </Nav.Link>
-            <Nav.Link href="#" className="mx-3">
+            <Nav.Link className="mx-3">
               <img
                 style={{ marginRight: "8px" }}
                 src={require("../images/login.svg").default}
