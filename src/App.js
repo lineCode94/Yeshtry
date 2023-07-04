@@ -20,8 +20,8 @@ function App() {
         <Navbar />
         <Container className="mb-4">
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/men" element={<Men />} />
+            <Route path="/home" element={<Home />} />
+            <Route path="/" element={<Men />} />
             <Route path="/women" element={<Women />} />
           </Routes>
         </Container>
