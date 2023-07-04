@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Yeshtry/static/css/main.c32df34a.css",
+    "main.js": "/Yeshtry/static/js/main.c8ccf959.js",
+    "static/media/waldemar-NPPNHZK1U0s-unsplash.jpg": "/Yeshtry/static/media/waldemar-NPPNHZK1U0s-unsplash.0e067227a0cc781aa6ea.jpg",
+    "static/media/lena-kudryavtseva-itUsEU7GgDU-unsplash.jpg": "/Yeshtry/static/media/lena-kudryavtseva-itUsEU7GgDU-unsplash.149aa1388140bfa1486a.jpg",
+    "static/media/haryo-setyadi-acn5ERAeSb4-unsplash.jpg": "/Yeshtry/static/media/haryo-setyadi-acn5ERAeSb4-unsplash.e12d856c61403e9a76e7.jpg",
+    "static/media/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg": "/Yeshtry/static/media/benjamin-rascoe-KF-q_SGqswg-unsplash.1368f692c9c3fee14d1e.jpg",
+    "static/media/alex-haigh-fEt6Wd4t4j0-unsplash.jpg": "/Yeshtry/static/media/alex-haigh-fEt6Wd4t4j0-unsplash.42325446582e41f9f96a.jpg",
+    "static/media/slider.png": "/Yeshtry/static/media/slider.e7fe2169b217485bd13c.png",
+    "static/media/footer.svg": "/Yeshtry/static/media/footer.83fa84465a59fb3b307c809ee4b13fe1.svg",
+    "static/media/adidas-logo.svg": "/Yeshtry/static/media/adidas-logo.acfd06476a2550f18f8455cd7d50ca1a.svg",
+    "static/media/logo.svg": "/Yeshtry/static/media/logo.fd943939913025cdcbb85274a343ddcf.svg",
+    "static/media/slick.svg": "/Yeshtry/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/contact.svg": "/Yeshtry/static/media/contact.3d67661056e8e7c0ce29bc11e90738eb.svg",
+    "static/media/slick.eot": "/Yeshtry/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Yeshtry/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/insta.svg": "/Yeshtry/static/media/insta.bcd0ae0c16c6c9cdbb73cf3d7bcfbb2d.svg",
+    "static/media/cart.svg": "/Yeshtry/static/media/cart.a76b27f2b9e850d6ca56dc50116fe2da.svg",
+    "static/media/slick.woff": "/Yeshtry/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/linked.svg": "/Yeshtry/static/media/linked.34d2e34f12c5138426f06e48b4263a87.svg",
+    "static/media/cart1.svg": "/Yeshtry/static/media/cart1.5b7a66582237dfb8f562727f554f86dc.svg",
+    "index.html": "/Yeshtry/index.html",
+    "static/media/tweeter.svg": "/Yeshtry/static/media/tweeter.3e2a02b2b0f8224845c77420474def13.svg",
+    "static/media/location.svg": "/Yeshtry/static/media/location.ce0b6eceed3399f25694caa68c8a7dcb.svg",
+    "static/media/heart.svg": "/Yeshtry/static/media/heart.1be0489fdef0da8a261adbade8c22d11.svg",
+    "static/media/facebook.svg": "/Yeshtry/static/media/facebook.8064e21855545bca9f10b5856dc425dc.svg",
+    "static/media/logo1.svg": "/Yeshtry/static/media/logo1.66307ff43edd719d052622b167b3924f.svg",
+    "static/media/login.svg": "/Yeshtry/static/media/login.94f286fc8d91110551aee35afba4077a.svg",
+    "main.c32df34a.css.map": "/Yeshtry/static/css/main.c32df34a.css.map",
+    "main.c8ccf959.js.map": "/Yeshtry/static/js/main.c8ccf959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32df34a.css",
+    "static/js/main.c8ccf959.js"
+  ]
+}
